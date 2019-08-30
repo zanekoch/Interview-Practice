@@ -1,2 +1,2 @@
-# leetCode
+# Pracice Problems
 Practice interview questions
